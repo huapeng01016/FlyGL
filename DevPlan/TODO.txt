@@ -1,0 +1,5 @@
+
+Todo:
+
+1. Add freeglut http://freeglut.sourceforge.net/ to solution
+2. Add glew http://glew.sourceforge.net/install.html to solution
